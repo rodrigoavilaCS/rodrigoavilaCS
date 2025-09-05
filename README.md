@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&background=FF903200&width=448&lines=Hi+there+I'm+Rodrigo.;Computer+Scientist+%7C+Backend+Developer)](https://git.io/typing-svg)
 
 <!--
 **rodrigoavilaCS/rodrigoavilaCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
