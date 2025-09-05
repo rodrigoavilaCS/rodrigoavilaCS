@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=4000&pause=1000&background=FF903200&center=true&vCenter=true&width=900&lines=Hi+there+I'm+Rodrigo.;Computer+Scientist+%7C+Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=4000&pause=1000&background=FF903200&center=true&vCenter=true&width=1000&lines=Hi+there+I'm+Rodrigo.;Computer+Scientist+%7C+Backend+Developer)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHA3b2dzNjhqYmMwdGZlNWc4MXB6dGZwMXQzNWJndWw2N256cGJ6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif" width="360" alt="Techy backend dev boy gif"/>
