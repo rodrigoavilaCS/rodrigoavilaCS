@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=4000&pause=1000&background=FF903200&center=true&vCenter=true&width=900&lines=Hi+there+I'm+Rodrigo.;Computer+Scientist+%7C+Backend+Developer)](https://git.io/typing-svg)
 
-<iframe src="https://giphy.com/embed/cFdHXXm5GhJsc" width="480" height="379" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tmnt-teenage-mutant-ninja-turtles-cFdHXXm5GhJsc">via GIPHY</a></p>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHA3b2dzNjhqYmMwdGZlNWc4MXB6dGZwMXQzNWJndWw2N256cGJ6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif" width="360" alt="Techy backend dev boy gif"/>
+</p>
+
 
 <!--
 **rodrigoavilaCS/rodrigoavilaCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
